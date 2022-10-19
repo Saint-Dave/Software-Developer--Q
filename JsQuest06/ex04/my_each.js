@@ -3,7 +3,7 @@
 //     console.log(element);
 // });
 
-// function my_each(1,2,3){
+// function my_each("param1", "param2", "param3"){
 //     my_each("param1", "param2", "param3").forEach((element) => {
 //         console.log(element);
 //     });
